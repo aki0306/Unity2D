@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 00df484bb1d8e468791b2d2c3ab40677
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainImage: {instanceID: 0}
+  - gameOverSpr: {instanceID: 0}
+  - gameClearSpr: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - nextButton: {instanceID: 0}
+  - timeBar: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - inputUI: {instanceID: 0}
+  - meGameOver: {fileID: 8300000, guid: 0d1051a120c414ba89a7071406a0ca52, type: 3}
+  - meGameClear: {fileID: 8300000, guid: 337a8d406f2ad4d46b5a3f03bb7c797b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
